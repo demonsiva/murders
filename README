@@ -10,5 +10,5 @@ cd ~/Documents/Play/Brain/Python/R/Projects/5.production_tools/murders
 git init
 git add README.txt
 git commit -m "First commit. Adding README.txt file just to get started" 
-git remote add origin `https://github.com/demonsiva/murders.git`
+git remote add origin `https://github.com/demonsiva/murders.git
 git push
