@@ -12,3 +12,8 @@ git add README.txt
 git commit -m "First commit. Adding README.txt file just to get started" 
 git remote add origin `https://github.com/demonsiva/murders.git
 git push
+
+# Code for exisiting repository
+git remote add origin https://github.com/demonsiva/murders.git
+saitou-akira:murders estellahe$ git push -u origin master
+
